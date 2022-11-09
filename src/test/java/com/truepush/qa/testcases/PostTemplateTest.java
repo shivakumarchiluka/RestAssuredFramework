@@ -9,7 +9,7 @@ import org.json.simple.JSONObject;
 import io.restassured.http.Method;
 import io.restassured.response.Response;
 
-public class PostTemplate extends Baseclass {
+public class PostTemplateTest extends Baseclass {
 	
 	
 	@SuppressWarnings("unchecked")

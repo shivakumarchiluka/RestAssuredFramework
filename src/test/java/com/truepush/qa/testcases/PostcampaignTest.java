@@ -10,7 +10,7 @@ import org.json.simple.JSONObject;
 import io.restassured.http.Method;
 import io.restassured.response.Response;
 
-public class Postcampaign extends Baseclass{
+public class PostcampaignTest extends Baseclass{
 
 	@SuppressWarnings("unchecked")
 	@Test
@@ -29,7 +29,7 @@ public class Postcampaign extends Baseclass{
 	
 	parameters.put("link","https://in.bookmyshow.com/");
 	
-	parameters.put("image", "http://commondatastorage.googleapis.com/codeskulptor-demos/riceracer_assets/img/tree_3.png");
+	parameters.put("image", "http://commondatastorage.googleapis.com/codeskulptor-assets/gutenberg.jpg");
 	
 	parameters.put("icon", "http://commondatastorage.googleapis.com/codeskulptor-assets/lathrop/asteroid_blue.png");
 	

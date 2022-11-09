@@ -7,7 +7,7 @@ import com.truepush.qa.baseclass.Baseclass;
 
 import io.restassured.http.Method;
 
-public class Campaignstats extends Baseclass{
+public class CampaignstatsTest extends Baseclass{
 	
 	@Test
 	

@@ -9,7 +9,7 @@ import org.json.simple.JSONObject;
 import io.restassured.http.Method;
 import io.restassured.response.Response;
 
-public class ChangeTriggerStatus extends Baseclass {
+public class ChangeTriggerStatusTest extends Baseclass {
 	
 	@SuppressWarnings("unchecked")
 	@Test

@@ -8,7 +8,7 @@ import com.truepush.qa.baseclass.Baseclass;
 import io.restassured.http.Method;
 import io.restassured.response.Response;
 
-public class ListSegments extends Baseclass{
+public class ListSegmentsTest extends Baseclass{
 
 	
 	@Test
